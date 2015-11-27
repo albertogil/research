@@ -4,7 +4,6 @@ Site: http://gulpjs.com/
 
 ## First Steps
 - http://tagtree.tv/gulp
-- https://github.com/substack/stream-handbook
 - https://markgoodyear.com/2014/01/getting-started-with-gulp/
 - https://www.youtube.com/playlist?list=PLRk95HPmOM6PN-G1xyKj9q6ap_dc9Yckm
 
