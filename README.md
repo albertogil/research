@@ -1,2 +1,7 @@
-# research
+# Research
+
 # Gulp
+
+# Javascript Design Patterns
+
+
