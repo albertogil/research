@@ -1,7 +1,8 @@
 # Research
+Notes of research topics.
 
-# Gulp
+## Gulp
+Task Manager
 
-# Javascript Design Patterns
-
-
+## Javascript Design Patterns
+Javascript best practices in patterns
