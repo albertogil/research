@@ -1,2 +1,2 @@
 # research
-# Gulp
+Notes of research topics.
